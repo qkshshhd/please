@@ -8,7 +8,7 @@ public class Enemy : MonoBehaviour
     private Vector3 move;
 
     public float Damage = 3f;
-    
+    //냐미ㅣㅣㅣㅣ
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
